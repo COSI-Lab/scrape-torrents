@@ -1,4 +1,4 @@
-module github.com/COSI-Lab/Mirror/scrape-torrents
+module github.com/COSI-Lab/scrape-torrents
 
 go 1.19
 
